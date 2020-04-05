@@ -1,4 +1,4 @@
-package Practica002;
+package Practica002Runnable;
 
 //Manejo de Hilos implementando la Interfaz Runnable
 public class HilosRunnable implements Runnable {

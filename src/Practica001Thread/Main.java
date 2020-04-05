@@ -1,4 +1,4 @@
-package Practica001;
+package Practica001Thread;
 
 public class Main {
 

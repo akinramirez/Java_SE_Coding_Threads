@@ -1,4 +1,4 @@
-package Practica001;
+package Practica001Thread;
 
 //Manejo de Hilos heredando de la clase Thread
 public class THilo extends Thread {

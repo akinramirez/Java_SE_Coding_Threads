@@ -1,4 +1,4 @@
-package Practica002;
+package Practica002Runnable;
 
 public class Main {
 
